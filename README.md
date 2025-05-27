@@ -15,3 +15,9 @@ A computer vision project to detect and recognize **Indian vehicle number plates
 
 ```bash
 git clone https://github.com/Harshil177/ANPR-Automatic-Number-Plate-Recognition-System.git
+
+## Dataset
+The dataset can be downloaded from [this website](https://universe.roboflow.com/general-wchqu/licenceplatedetector/dataset/1).
+
+## Dependencies
+The sort module needs to be downloaded from [this repository](https://github.com/abewley/sort).
