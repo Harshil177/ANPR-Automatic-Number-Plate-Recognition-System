@@ -14,4 +14,4 @@ A computer vision project to detect and recognize **Indian vehicle number plates
 ## 🛠️ Setup
 
 ```bash
-git clone https://github.com/bhavyaboghani/Number-Plate-Detection.git
+git clone https://github.com/Harshil177/ANPR-Automatic-Number-Plate-Recognition-System.git
