@@ -12,8 +12,6 @@ A computer vision project to detect and recognize **Indian vehicle number plates
 - Bounding box interpolation for missing frames
 
 ## 🛠️ Setup
-
-```bash
 git clone https://github.com/Harshil177/ANPR-Automatic-Number-Plate-Recognition-System.git
 
 ## Dataset
